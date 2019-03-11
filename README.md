@@ -1,6 +1,8 @@
 # nuxt-quill
 
-> Nuxt.jsでQuillエディタをいれてみた
+> Nuxt.jsでQuillエディタをいれてみた  
+
+[DEMOサイト](https://sauzar18.github.io/nuxt-quill-demo/)
 
 下記モジュールを使用  
 [vue2-editor](https://github.com/davidroyer/vue2-editor)
